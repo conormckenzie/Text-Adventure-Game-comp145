@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectView/Window.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectModel/Game.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectModel/Player.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectController/Comp155project.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectModel/AnimateObject.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectModel/environment/Location.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectModel/environment/Environment.java</file>
+            <file>file:/Users/conor/NetBeansProjects/COMP155project/src/comp155projectModel/environment/OutConnection.java</file>
+        </group>
+    </open-files>
+</project-private>
